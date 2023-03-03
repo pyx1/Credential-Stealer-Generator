@@ -1,6 +1,6 @@
 # Crendetial stealer
 
-Tool creada para la generación de diferentes payloads de archivos que permiten robar credenciales NTLM.
+Script creado para la generación de diferentes payloads de archivos que permiten robar credenciales NTLM.
 
 ## Tipos de archivos:
 
